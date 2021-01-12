@@ -32,4 +32,4 @@ Well, that was a lot of *things* (and "👾"s)! Quite often, some of these *thin
 👽 You can read some *things* I have being writing about *things* on [my dev.to page](https://dev.to/fhpriamo).  
 
 
-Just n case you're wondering, I have used "👾"s and "👽"s as list bullets for no special reason.
+Just in case you're wondering, I chose to use "👾"s and "👽"s as list bullets for no special reason.
