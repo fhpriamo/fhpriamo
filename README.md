@@ -26,7 +26,7 @@ Well, that was a lot of *things* (and "👾"s)! Quite often, some of these *thin
 
 ### Check out these things!
 
-👽 You can check out [some very cool *things*](https://github.com/fhpriamo/soufantech) I have been creating along with the [SouFan team](https://github.com/orgs/soufantech/people).  
+👽 You can check out [some very cool *things*](https://github.com/soufantech) I have been creating along with the [SouFan team](https://github.com/orgs/soufantech/people).  
 👽 You can check out some little things with which I have been thinkering on my [Github gists](https://gist.github.com/fhpriamo).  
 👽 You can check out some (mostly dated) *things* I have created on [my GitHub profile](https://github.com/fhpriamo).  
 👽 You can read some *things* I have being writing about *things* on [my dev.to page](https://dev.to/fhpriamo).  
